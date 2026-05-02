@@ -157,8 +157,3 @@ This project is open-source and available under the MIT License.
 
 ---
 
-## 🤝 Contributions
-
-Feel free to fork this repository and submit pull requests to improve the project.
-
----
