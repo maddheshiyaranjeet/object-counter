@@ -153,7 +153,5 @@ This project is open-source and available under the MIT License.
 
 ## 👨‍💻 Author
 
-*Add your name here*
-
----
+*Add your name
 
