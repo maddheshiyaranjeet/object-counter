@@ -143,7 +143,6 @@ void loop() {
 * Use multiple sensors for bidirectional counting
 * Improve UI with larger displays
 
----
 
 
 
