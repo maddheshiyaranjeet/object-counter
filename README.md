@@ -8,7 +8,7 @@ The system is widely applicable in automation tasks such as counting items on a 
 
 ---
 
-## 🎯 Objectives
+## 🎯 Objectives 
 
 * To design a real-time object counting system
 * To interface a sensor with a microcontroller
